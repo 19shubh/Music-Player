@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="less_than_1">#FF1744</color>
+    <color name="less_than_2">#D500F9</color>
+    <color name="less_than_3">#311B92</color>
+    <color name="less_than_4">#80D8FF</color>
+    <color name="less_than_5">#AFB42B</color>
+    <color name="less_than_6">#BDBDBD</color>
+    <color name="less_than_7">#ff1565c0</color>
+    <color name="less_than_8">#FF8F00</color>
+    <color name="more_than_8">#ff424242</color>
+</resources>
